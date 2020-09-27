@@ -1,0 +1,1 @@
+# Data-mining-for-gastric-cancer-prediction
